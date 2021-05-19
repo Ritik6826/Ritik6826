@@ -1,4 +1,7 @@
 ### Hi there , I am Ritik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src ="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" width ="35">
+
+[Twitter profile](https://twitter.com/Ritikkumar6826)
 
 
 ## I'm a student and a noob programmer😂.
