@@ -14,7 +14,10 @@
 
 LANGUAGES--
 
-<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="35"/> <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" width="35"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="35"/>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png" width="35"/>
+
+&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JAVA
+
 <!--
 **Ritik6826/Ritik6826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
